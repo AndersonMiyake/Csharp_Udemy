@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Secao3_ExerciciosPropostos_parte4/1.0.0": {
+        "runtime": {
+          "Secao3_ExerciciosPropostos_parte4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Secao3_ExerciciosPropostos_parte4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

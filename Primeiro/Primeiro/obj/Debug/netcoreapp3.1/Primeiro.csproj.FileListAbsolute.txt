@@ -1,0 +1,14 @@
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
