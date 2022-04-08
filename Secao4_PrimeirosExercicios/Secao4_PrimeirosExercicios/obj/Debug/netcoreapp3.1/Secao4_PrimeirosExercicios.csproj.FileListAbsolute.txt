@@ -1,0 +1,14 @@
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.exe
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.deps.json
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.runtimeconfig.json
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.runtimeconfig.dev.json
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.dll
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.pdb
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.csproj.AssemblyReference.cache
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.AssemblyInfoInputs.cache
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.AssemblyInfo.cs
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.csproj.CoreCompileInputs.cache
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.dll
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.pdb
+C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_PrimeirosExercicios\Secao4_PrimeirosExercicios\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExercicios.genruntimeconfig.cache

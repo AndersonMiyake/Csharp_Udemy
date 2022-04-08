@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Secao4_PrimeirosExercicios/1.0.0": {
+        "runtime": {
+          "Secao4_PrimeirosExercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Secao4_PrimeirosExercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
