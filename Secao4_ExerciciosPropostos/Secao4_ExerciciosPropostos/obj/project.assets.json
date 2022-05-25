@@ -8,35 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\319013\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\afmyk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\319013\\Documents\\Visual Studio Projects\\Csharp_Completo_Udemy\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos.csproj",
+      "projectUniqueName": "D:\\afmyk\\Documents\\Coding projects\\.Net\\Csharp_Completo_Udemy\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos.csproj",
       "projectName": "Secao4_ExerciciosPropostos",
-      "projectPath": "C:\\Users\\319013\\Documents\\Visual Studio Projects\\Csharp_Completo_Udemy\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos.csproj",
-      "packagesPath": "C:\\Users\\319013\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\319013\\Documents\\Visual Studio Projects\\Csharp_Completo_Udemy\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos\\obj\\",
+      "projectPath": "D:\\afmyk\\Documents\\Coding projects\\.Net\\Csharp_Completo_Udemy\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos.csproj",
+      "packagesPath": "C:\\Users\\afmyk\\.nuget\\packages\\",
+      "outputPath": "D:\\afmyk\\Documents\\Coding projects\\.Net\\Csharp_Completo_Udemy\\Secao4_ExerciciosPropostos\\Secao4_ExerciciosPropostos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\319013\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\afmyk\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.ptin.corppt.com/api/nuget/ptin-nuget-releases": {},
-        "http://www.myget.org/F/caliburn-micro-builds/api/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,12 +53,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

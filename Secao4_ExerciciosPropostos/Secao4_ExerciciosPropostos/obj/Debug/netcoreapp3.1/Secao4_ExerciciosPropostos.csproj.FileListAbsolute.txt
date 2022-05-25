@@ -12,3 +12,17 @@ C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_Ex
 C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.pdb
 C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.genruntimeconfig.cache
 C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.csproj.AssemblyReference.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\bin\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.exe
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\bin\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.deps.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\bin\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.runtimeconfig.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\bin\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.runtimeconfig.dev.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\bin\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.dll
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\bin\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.pdb
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.csproj.AssemblyReference.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.GeneratedMSBuildEditorConfig.editorconfig
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.AssemblyInfoInputs.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.AssemblyInfo.cs
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.csproj.CoreCompileInputs.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.dll
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.pdb
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Secao4_ExerciciosPropostos\Secao4_ExerciciosPropostos\obj\Debug\netcoreapp3.1\Secao4_ExerciciosPropostos.genruntimeconfig.cache

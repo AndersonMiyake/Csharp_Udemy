@@ -12,3 +12,17 @@ C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Course_Se
 C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.dll
 C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.pdb
 C:\Users\319013\Documents\Visual Studio Projects\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.genruntimeconfig.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\bin\Debug\netcoreapp3.1\Course_Section4.exe
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\bin\Debug\netcoreapp3.1\Course_Section4.deps.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\bin\Debug\netcoreapp3.1\Course_Section4.runtimeconfig.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\bin\Debug\netcoreapp3.1\Course_Section4.runtimeconfig.dev.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\bin\Debug\netcoreapp3.1\Course_Section4.dll
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\bin\Debug\netcoreapp3.1\Course_Section4.pdb
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.csproj.AssemblyReference.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.GeneratedMSBuildEditorConfig.editorconfig
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.AssemblyInfoInputs.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.AssemblyInfo.cs
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.csproj.CoreCompileInputs.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.dll
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.pdb
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section4\Course_Section4\obj\Debug\netcoreapp3.1\Course_Section4.genruntimeconfig.cache

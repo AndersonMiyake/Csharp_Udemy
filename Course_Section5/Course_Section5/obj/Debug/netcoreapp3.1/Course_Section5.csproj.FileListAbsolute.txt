@@ -1,0 +1,14 @@
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\bin\Debug\netcoreapp3.1\Course_Section5.exe
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\bin\Debug\netcoreapp3.1\Course_Section5.deps.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\bin\Debug\netcoreapp3.1\Course_Section5.runtimeconfig.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\bin\Debug\netcoreapp3.1\Course_Section5.runtimeconfig.dev.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\bin\Debug\netcoreapp3.1\Course_Section5.dll
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\bin\Debug\netcoreapp3.1\Course_Section5.pdb
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\obj\Debug\netcoreapp3.1\Course_Section5.csproj.AssemblyReference.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\obj\Debug\netcoreapp3.1\Course_Section5.GeneratedMSBuildEditorConfig.editorconfig
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\obj\Debug\netcoreapp3.1\Course_Section5.AssemblyInfoInputs.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\obj\Debug\netcoreapp3.1\Course_Section5.AssemblyInfo.cs
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\obj\Debug\netcoreapp3.1\Course_Section5.csproj.CoreCompileInputs.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\obj\Debug\netcoreapp3.1\Course_Section5.dll
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\obj\Debug\netcoreapp3.1\Course_Section5.pdb
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Course_Section5\Course_Section5\obj\Debug\netcoreapp3.1\Course_Section5.genruntimeconfig.cache
