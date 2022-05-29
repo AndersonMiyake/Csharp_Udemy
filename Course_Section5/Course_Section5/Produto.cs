@@ -1,45 +1,52 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Text;
+﻿using System.Globalization;
 
 namespace Course_Section5
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
+
+
+        public Produto()
+        { }
 
         public Produto(string nome, double preco, int quantidade)
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco)
+        public string Nome
         {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = 0;     //Linha desnecessária, valores numericos começam com 0
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                    _nome = value;
+            }
         }
 
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
         }
+
         public void AdicionarProdutos(int quantidade)
         {
             Quantidade += quantidade;
         }
+
         public void RemoverProdutos(int quantidade)
         {
             Quantidade -= quantidade;
         }
+
         public override string ToString()
         {
-            return Nome
+            return _nome
             + ", $ "
             + Preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
