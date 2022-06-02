@@ -1,0 +1,14 @@
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\bin\Debug\netcoreapp3.1\Section6_List_Exercise.exe
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\bin\Debug\netcoreapp3.1\Section6_List_Exercise.deps.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\bin\Debug\netcoreapp3.1\Section6_List_Exercise.runtimeconfig.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\bin\Debug\netcoreapp3.1\Section6_List_Exercise.runtimeconfig.dev.json
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\bin\Debug\netcoreapp3.1\Section6_List_Exercise.dll
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\bin\Debug\netcoreapp3.1\Section6_List_Exercise.pdb
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\obj\Debug\netcoreapp3.1\Section6_List_Exercise.csproj.AssemblyReference.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\obj\Debug\netcoreapp3.1\Section6_List_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\obj\Debug\netcoreapp3.1\Section6_List_Exercise.AssemblyInfoInputs.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\obj\Debug\netcoreapp3.1\Section6_List_Exercise.AssemblyInfo.cs
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\obj\Debug\netcoreapp3.1\Section6_List_Exercise.csproj.CoreCompileInputs.cache
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\obj\Debug\netcoreapp3.1\Section6_List_Exercise.dll
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\obj\Debug\netcoreapp3.1\Section6_List_Exercise.pdb
+D:\afmyk\Documents\Coding projects\.Net\Csharp_Completo_Udemy\Section6_List_Exercise\Section6_List_Exercise\obj\Debug\netcoreapp3.1\Section6_List_Exercise.genruntimeconfig.cache
